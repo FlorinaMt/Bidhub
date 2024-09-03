@@ -139,3 +139,12 @@ calculates the moment when a started auction should end;
 displays and updates the time left for bidders to participate in a specific auction.
 notifies the end of the auction, which triggers the information exchange between the Seller and the final Bidder, if they exist;
 
+## Auction demonstration:
+
+https://github.com/user-attachments/assets/c1796230-c593-43cd-ba82-034dd747afb6
+
+## Moderator features demonstration: 
+
+https://github.com/user-attachments/assets/687ce09a-f376-42f8-b61f-57a54c9a1503
+
+
